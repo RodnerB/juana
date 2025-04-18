@@ -1,5 +1,5 @@
 // CONFIGURA AQUÍ EL NOMBRE Y EL MENSAJE
-const NOMBRE = "[Tu Nombre]";
+const NOMBRE = "Juana";
 const MENSAJE = "Te amo";
 
 const animationContainer = document.getElementById('animation-container');
